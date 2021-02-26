@@ -52,7 +52,7 @@ module.exports = {
  <a:emoji_8:814035085400735755> ,help              <a:emoji_8:814035085400735755> ,ping
  <a:emoji_8:814035085400735755> ,prefix             <a:emoji_8:814035085400735755> ,uptime
 
-[support]()    -    [invite](https://discord.com/oauth2/authorize?client_id=812368564610793523&permissions=70282305&scope=bot)
+[support](https://discord.gg/QnUnndky3E)    -    [invite](https://discord.com/oauth2/authorize?client_id=812368564610793523&permissions=70282305&scope=bot)
 
 `)
 
